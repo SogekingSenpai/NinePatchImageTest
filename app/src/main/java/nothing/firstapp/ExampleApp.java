@@ -6,8 +6,8 @@ import static android.content.ContentValues.TAG;
 
 public class ExampleApp {
 
-    public void somethingToDo(){
-        Log.i("Something", "somethingToDo: Something");
+    public ExampleApp() {
+        Log.i("Something", "Nothing");
     }
 
 }
