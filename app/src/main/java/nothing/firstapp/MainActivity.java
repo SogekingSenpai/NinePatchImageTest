@@ -37,5 +37,6 @@ public class MainActivity extends AppCompatActivity {
         //This is View That we're doing
         titleTexts.setText("We just Pushed This Button");
         //centerText.setText("");
+        Log.i("Something", "Nothing");
     }
 }
